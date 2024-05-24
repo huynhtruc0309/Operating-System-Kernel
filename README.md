@@ -1,4 +1,4 @@
-# OperatingSystem_Project2
+# Operating-System-Kernel
 Đề bài 
 Phần 1: Mục tiêu là hiểu về Linux kernel module và hệ thống quản lý file và device trong Linux, giao tiếp giữa tiến trình ở user space và kernel space. 
 + Viết một module dùng để tạo ra số ngẫu nhiên. 
